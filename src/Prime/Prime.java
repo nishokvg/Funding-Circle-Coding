@@ -15,7 +15,7 @@ public class Prime {
         System.out.println("Enter N Integers:");
         Scanner inputNumber = new Scanner(System.in);
         N = inputNumber.nextInt();
-        // calculating the N prime number
+        // calculating the N prime number and its formulae
         Primenumber.add(2);
         for ( int a = 2 ; a <=N ;  )
         {
